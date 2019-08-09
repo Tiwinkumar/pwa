@@ -98,8 +98,8 @@
 }
 
 .table input[type=number]{
-  width: 5%;
-  margin-left: 36%;
+  width: 80px;
+  margin-left: 20%;
 }
 
 .table {
